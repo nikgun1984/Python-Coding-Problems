@@ -24,3 +24,6 @@ sites = ["home", "about", "career", "home", "cart", "maps", "home", "home", "abo
 
 a = obj.most_visited_pattern(names, timestamps, sites)
 print(a)
+
+var = set.__slots__
+print(var)
